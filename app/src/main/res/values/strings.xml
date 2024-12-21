@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WaterReminderApp</string>
+    <string name="logo_desc">Logo Aplikasi</string>
+    <string name="target_daily">Target Harian: 0 Liter</string>
+    <string name="set_target">Atur Target Harian</string>
+    <string name="log_drink">Log Minum Air</string>
+    <string name="view_history">Lihat Riwayat</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="light_blue">#A4D8E1</color>
+    <color name="dark_blue">#007BFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Additional Colors -->
+    <color name="gray">#B0BEC5</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue">blue</color>
+</resources>
